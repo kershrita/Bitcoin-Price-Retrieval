@@ -4,16 +4,12 @@ This program is a simple graphical user interface (GUI) application that allows 
 
 ## Table of Contents
 
-- [Features](#features)
 - [Getting Started](#getting-started)
+- [Features](#features)
+- [Acknowledgments](#acknowledgments)
 - [Contributing](#contributing)
-
-## Features
-
-- Allows users to select a date using a calendar widget.
-- Fetches the Bitcoin price for the selected date from a CSV file.
-- Displays the retrieved Bitcoin price in the GUI.
-- Shows an error message if the selected date is outside the valid range.
+- [License](#license)
+- [Contact](#contact)
 
 ## Getting Started
 
@@ -35,6 +31,30 @@ git clone https://github.com/kershrita/Bitcoin-Price-Retrieval.git
 8. If the selected date is within the valid range, the retrieved Bitcoin price will be displayed in the GUI.
 9. If the selected date is outside the valid range, an error message will be shown.
 
+## Features
+
+- Allows users to select a date using a calendar widget.
+- Fetches the Bitcoin price for the selected date from a CSV file.
+- Displays the retrieved Bitcoin price in the GUI.
+- Shows an error message if the selected date is outside the valid range.
+
+## Acknowledgments
+
+We would like to acknowledge the following resources and libraries that have been instrumental in developing Kids Learning Program:
+
+- **[Pandas](https://pandas.pydata.org/docs/)**: A versatile library for data manipulation and analysis. It offers easy-to-use data structures and data analysis tools. Check out the pandas documentation for comprehensive guides, examples, and the API reference.
+- **[Tkinter](https://docs.python.org/3/library/tkinter.html)**: A Python library that provides a simple and intuitive way to create graphical user interfaces (GUIs). It serves as a bridge between Python and the Tk GUI toolkit, allowing developers to build interactive applications with ease.
+
 ## Contributing
 
 Contributions to the Bitcoin Price Retrieval GUI Program are welcome. If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please follow the contribution guidelines specified in the repository.
+
+## License
+
+Kids Learning Program is released under the [MIT License](LICENSE).
+
+## Contact
+
+- Mail: ashrafabdulkhaliq80@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ashraf-abdulkhaliq
+- GitHub: https://github.com/kershrita
