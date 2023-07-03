@@ -51,7 +51,7 @@ Contributions to the Bitcoin Price Retrieval GUI Program are welcome. If you hav
 
 ## License
 
-Kids Learning Program is released under the [MIT License](LICENSE).
+Bitcoin Price Retrieval is released under the [MIT License](LICENSE).
 
 ## Contact
 
